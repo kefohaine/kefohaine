@@ -41,7 +41,6 @@ Against surveillance &amp; control - for privacy &amp; freedom
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://dev.to/kefohaine"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://www.fxmq.net"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:hello@fxmq.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
